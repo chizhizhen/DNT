@@ -1,6 +1,7 @@
 function [results, positions] = main(video, img_id, chnum)
 % MAIN Summary of this function goes here
 trackparam;
+addpath('DNT');
 addpath('./affine');
 addpath(genpath('./image_helpers'));
 % caffe('presolve_lnet');
