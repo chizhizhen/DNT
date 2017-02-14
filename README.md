@@ -1,8 +1,8 @@
-## Dual Deep Network for Visual Tracking
-# Introduction
+# Dual Deep Network for Visual Tracking
+## Introduction
 DNT repository for Dual Deep Network for Visual Tracking is published in IEEE Transaction on Image Processing. This package contains the source code to reproduce the experimental results of DNT paper. The source code is mainly written in MATLAB.
 
-# Usage
+## Usage
 + Supported OS: the source code was tested on 64-bit Arch Linux OS, and it should also be executable in other linux distributions.
 
 + Dependencies:
@@ -17,17 +17,17 @@ DNT repository for Dual Deep Network for Visual Tracking is published in IEEE Tr
 
     iii. Run the demo code run.m. You can customize your own test sequences following this example.
 
-# Citing Our Work
+## Citing Our Work
 If you find DNT useful in your research, please consider to cite our paper:
 
-    @inproceedings{ zhizhenchi, \\
+    @inproceedings{ zhizhenchi,
        title={Dual Deep Network for Visual Tracking},
        author={Chi, Zhizhen and Li, Hongyang and Lu, Huchuan and Yang, Minghsuan},
        booktitle={IEEE Transaction on Image Processing},
        year={2017}
     }
 
-# License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2017 Zhizhen Chi
